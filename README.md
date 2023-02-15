@@ -13,7 +13,7 @@ class About extends Me
                 I develop modern technology web applications with popular frameworks like Laravel, Vue and React.
                 SaaS,
                 Multi-Tenancy,
-                eCommerce,
+                E-Commerce,
                 RestFull API
                 I develop advanced software with software architectures.
                 Eternal student.';
