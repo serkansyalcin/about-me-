@@ -9,7 +9,7 @@ class About extends Me
 {
     public function getBio(): string
     {
-        return 'I'm a software developer specializing in PHP and JavaScript.
+        return 'I m a software developer specializing in PHP and JavaScript.
                 I develop modern technology web applications with popular frameworks like Laravel, Vue and React.
                 SaaS,
                 Multi-Tenancy,
