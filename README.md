@@ -7,21 +7,19 @@ namespace SerkanYalcin;
 
 class About extends Me
 {
-    public 
-    function getBio(): string
+    public function getBio(): string
     {
         return 'I'm a software developer specializing in PHP and JavaScript.
                 I develop modern technology web applications with popular frameworks like Laravel, Vue and React.
                 SaaS,
-                multi-tenancy,
-                e-Commerce,
+                Multi-Tenancy,
+                eCommerce,
                 RestFull API
                 I develop advanced software with software architectures.
                 Eternal student.';
     } 
 
-    public 
-    function getMore(): array
+    public function getMore(): array
     {
         return [
             'work' => [
@@ -33,8 +31,7 @@ class About extends Me
         ];
     }
 
-    public 
-    function getCurrentState(): array 
+    public function getCurrentState(): array 
     {
         return [
             'working_on' => [
@@ -48,8 +45,7 @@ class About extends Me
         ];
     }
 
-    public 
-    function getFutureGoal(): string
+    public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
     }
