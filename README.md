@@ -26,7 +26,7 @@ class About extends Me
                 'Software Developer - T-SOFT',
                 'Full Stack Developer - Bayer Bilişim',
                 'Software Developer - Karaca',
-                'Software Developer - BookLogic',
+                'Software Developer - BookLogic'
             ]
         ];
     }
