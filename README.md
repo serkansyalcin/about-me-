@@ -24,7 +24,6 @@ class About extends Me
         return [
             'work' => [
                 'Software Developer - T-SOFT',
-                'Full Stack Developer - Bayer Bilişim',
                 'Software Developer - Karaca',
                 'Software Developer - BookLogic'
             ]
